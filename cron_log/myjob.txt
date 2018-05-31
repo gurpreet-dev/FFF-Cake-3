@@ -1,0 +1,306 @@
+--2018-03-28 13:15:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2018-03-28 13:15:01 ERROR 500: Internal Server Error.
+
+--2018-03-28 13:16:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2018-03-28 13:16:02 ERROR 500: Internal Server Error.
+
+--2018-03-28 13:17:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2018-03-28 13:17:01 ERROR 500: Internal Server Error.
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-03-29 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-03-29 00:00:02 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-03-30 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-03-30 00:00:06 (0.00 B/s) - written to stdout [0]
+
+--2018-03-31 00:00:02--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... /bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-03-31 00:00:06 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-01 00:00:02--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-01 00:00:03 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-02 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-02 00:00:02 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-03 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-03 00:00:01 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-04 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-04 00:00:01 (0.00 B/s) - written to stdout [0]
+
+--2018-04-05 00:00:02--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... /bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-05 00:00:07 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-06 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-06 00:00:01 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-07 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-07 00:00:02 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-08 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-08 00:00:02 (0.00 B/s) - written to stdout [0]
+
+--2018-04-09 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-09 00:00:02 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-10 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-10 00:00:06 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-11 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-11 00:00:02 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-12 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-12 00:00:07 (0.00 B/s) - written to stdout [0]
+
+--2018-04-13 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... /bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-13 00:00:01 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-14 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-14 00:00:03 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-15 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-15 00:00:03 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-16 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-16 00:00:02 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-17 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-17 00:00:06 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-18 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-18 00:00:01 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-19 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-19 00:00:01 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-20 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-20 00:00:07 (0.00 B/s) - written to stdout [0]
+
+/bin/bash: http://singhgurpreet.crystalbiltech.com/fff/users/checksubscriptionexpiry: No such file or directory
+--2018-04-21 00:00:01--  http://singhgurpreet.crystalbiltech.com/fff/users/sendsubscriptionmailtoadmin
+Resolving singhgurpreet.crystalbiltech.com... 166.62.42.242
+Connecting to singhgurpreet.crystalbiltech.com|166.62.42.242|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: “STDOUT”
+
+     0K                                                        0.00 =0s
+
+2018-04-21 00:00:06 (0.00 B/s) - written to stdout [0]
+

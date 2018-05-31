@@ -1,0 +1,241 @@
+@media (max-width: 1200px) {
+  .st-banner .parallax-window .carousel-content h3 {
+    font-size: 30px; }
+  .st-banner .parallax-window .carousel-content h2 {
+    font-size: 40px; } }
+@media (max-width: 1100px) {
+  .st-gift .parallax-window .carousel-content h2 {
+    font-size: 40px; }
+  .st-gift .parallax-window .carousel-content a {
+    font-size: 20px; }
+  .st-gift .parallax-window .service ul li div {
+    font-size: 14px;
+    margin: 0 5px 0 0px;
+    width: 145px;
+    height: 145px; }
+    .st-gift .parallax-window .service ul li div p {
+      padding: 0 20px;
+      font-size: 23px; } }
+@media (max-width: 900px) {
+  .st-gift .parallax-window {
+    min-height: 500px; }
+    .st-gift .parallax-window .service ul li div {
+      font-size: 14px;
+      margin: 0 5px 5px 0px;
+      width: 105px;
+      height: 105px; }
+      .st-gift .parallax-window .service ul li div p {
+        padding: 0 10px;
+        font-size: 15px; }
+
+  .st-books .book-outer .book-pic {
+    height: 147px; }
+    .st-books .book-outer .book-pic img {
+      width: auto; }
+
+  .st-editprofile .nav {
+    padding: 50px 0px; }
+  .st-editprofile .tab-content {
+    padding: 50px 20px; }
+
+  .st-header nav .collapse ul li a {
+    padding-left: 0px !important; }
+  .st-header nav .collapse ul .log a {
+    padding-left: 20px !important;
+    margin: 0px; } }
+	
+	@media only screen and (max-width: 800px) {
+    
+    /* Force table to not be like tables anymore */
+	#no-more-tables table{
+		border:none;
+	}
+	#no-more-tables table, 
+	#no-more-tables thead, 
+	#no-more-tables tbody, 
+	#no-more-tables th, 
+	#no-more-tables td, 
+	#no-more-tables tr { 
+		display: block; 
+		height:auto;
+	}
+ 
+	/* Hide table headers (but not display: none;, for accessibility) */
+	#no-more-tables thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+ 
+	#no-more-tables tr { border: 1px solid #ccc; }
+ 
+	#no-more-tables td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+		white-space: normal;
+		text-align:left;
+	}
+ 
+	#no-more-tables td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+		text-align:left;
+		font-weight: bold;
+	}
+ 
+	/*
+	Label the data
+	*/
+	#no-more-tables td:before { content: attr(data-title); }
+}
+@media (max-width: 767px) {
+  body .modal {
+    overflow-y: auto; }
+
+  .st-banner .parallax-window {
+    min-height: 300px; }
+    .st-banner .parallax-window .carousel-content h3 {
+      font-size: 20px; }
+    .st-banner .parallax-window .carousel-content h2 {
+      font-size: 29px; }
+    .st-banner .parallax-window .family {
+      position: relative;
+      bottom: 0;
+      margin-bottom: -78px; }
+
+  .st-gift .parallax-window {
+    min-height: 800px; }
+    .st-gift .parallax-window .carousel-content h3 {
+      font-size: 30px !important; }
+    .st-gift .parallax-window .carousel-content h2 {
+      font-size: 30px !important; }
+    .st-gift .parallax-window .carousel-content a {
+      font-size: 24px !important;
+      margin-bottom: 15px !important; }	  .st-gift .parallax-window .service ul{		  width:145px;		  display:table;	  }
+    .st-gift .parallax-window .service ul li div {
+      width: 140px !important;
+      height: 140px !important; }
+      .st-gift .parallax-window .service ul li div p {
+        font-size: 21px !important; }
+
+  .st-read .read_content .theme-heading {
+    font-size: 38px; }
+
+  .st-form .read_content form .form-group .form-control {
+    border: 0px;
+    box-shadow: 2px 2px 6px rgba(202, 202, 202, 0.8);
+    padding: 15px 30px; }
+  .st-form .read_content form button {
+    width: 100%;
+    float: none !important; }
+  .st-form .read_pic {
+    height: 484px; }
+
+  .st-footer .inner .pic {
+    margin-bottom: 15px; }
+.st-about{
+	padding:55px 0px;
+	height:auto;
+}
+.st-about .text-center{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.st-about .text-center h1{
+	margin:0px;
+	
+}
+.st-gift .parallax-window .service ul{
+	margin:auto !important;
+}
+.st-gift .parallax-window .service ul li div{
+	width:160px !important;
+	height:160px !important;
+}
+	}
+@media (max-width: 575px) {
+  .st-banner .parallax-window {
+    min-height: 670px; }
+    .st-banner .parallax-window .carousel-content h3 {
+      font-size: 30px; }
+    .st-banner .parallax-window .carousel-content h2 {
+      font-size: 40px; }
+  .st-banner .family {
+    margin-bottom: -95px; }
+
+  .st-books .book-outer .book-pic {
+    height: 531px; }
+
+  .st-slides {
+    padding: 70px 0px 106px; }
+    .st-slides .parallax-window .carousel .carousel-inner .carousel-item .read_content h1 {
+      font-size: 30px;
+      margin-top: 15px; }
+    .st-slides .parallax-window .carousel .carousel-inner .carousel-item .read_content p {
+      font-size: 15px; }
+
+  .st-about h1 {
+    font-size: 31px; } 
+	.st-slides{
+	padding:0px;
+	padding-bottom:30px;
+}
+.st-slides .parallax-window{
+	min-height:auto;
+}
+	.st-slides .parallax-window .carousel .carousel-inner .carousel-item .read_pic{
+		height:350px;
+	}
+	.st-slides .parallax-window .carousel .carousel-inner .carousel-item .read_content{
+		min-height:280px;
+	}
+	.st-footer{
+		margin-top:-35px;
+	}
+	}
+@media (max-width: 480px) {
+  .st-banner .parallax-window {
+    min-height: 600px; }
+    .st-banner .parallax-window .carousel-content h3 {
+      font-size: 20px; }
+    .st-banner .parallax-window .carousel-content h2 {
+      font-size: 30px; }
+  .st-banner .family {
+    margin-bottom: -100px; }
+
+  .st-books .book-outer .book-pic {
+  height: 325px; }
+ }
+@media (max-width: 420px) {
+  .st-banner .parallax-window {
+    min-height: 468px; }
+    .st-banner .parallax-window .carousel-content h3 {
+      font-size: 20px; }
+    .st-banner .parallax-window .carousel-content h2 {
+      font-size: 30px; }
+  .st-banner .family {
+    margin-bottom: -78px; }
+
+  .st-books .book-outer .book-pic {
+    height: 325px; } }
+@media (max-width: 360px) {
+  .st-banner .parallax-window {
+    min-height: 450px; }
+
+  .st-read {
+    padding-top: 0px; }
+
+  .st-slides .parallax-window .carousel .carousel-inner .carousel-item .read_content h1 {
+    margin-top: 0px; } }
+
+/*# sourceMappingURL=responsive.css.map */

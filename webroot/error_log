@@ -1,0 +1,207 @@
+[04-Aug-2017 10:03:27 UTC] PHP Fatal error:  Call to a member function errors() on array in /home/singhgurpreet/public_html/trainer/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[04-Aug-2017 10:06:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 481
+[04-Aug-2017 10:06:54 UTC] PHP Fatal error:  Call to a member function errors() on array in /home/singhgurpreet/public_html/trainer/vendor/cakephp/cakephp/src/ORM/Table.php on line 1714
+[04-Aug-2017 10:33:59 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 86
+[04-Aug-2017 10:34:03 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 86
+[04-Aug-2017 11:16:23 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 511
+[04-Aug-2017 11:17:31 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 513
+[04-Aug-2017 11:19:01 UTC] PHP Fatal error:  Class 'App\Controller\CakeAuthDefaultPasswordHasher' not found in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 513
+[04-Aug-2017 11:22:36 UTC] PHP Fatal error:  Call to a member function save() on boolean in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 519
+[05-Aug-2017 08:23:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 137
+[05-Aug-2017 11:12:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 578
+[05-Aug-2017 11:14:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:14:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:14:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 579
+[05-Aug-2017 11:15:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 579
+[05-Aug-2017 11:15:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:16:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:16:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 11:17:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 11
+[05-Aug-2017 12:41:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 175
+[05-Aug-2017 12:42:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 178
+[05-Aug-2017 12:42:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Users/trainer.ctp on line 178
+[08-Aug-2017 11:19:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 618
+[09-Aug-2017 07:41:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 07:41:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 07:41:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 79
+[09-Aug-2017 08:23:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 34
+[09-Aug-2017 08:23:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 34
+[09-Aug-2017 08:23:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 42
+[09-Aug-2017 08:23:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 42
+[09-Aug-2017 11:27:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 437
+[09-Aug-2017 12:15:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 50
+[09-Aug-2017 12:40:22 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 29
+[09-Aug-2017 12:41:26 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 30
+[09-Aug-2017 12:42:37 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 31
+[09-Aug-2017 12:42:42 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 31
+[09-Aug-2017 12:43:51 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:43:55 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:43:58 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:45:16 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:45:20 UTC] PHP Fatal error:  Call to a member function execute() on null in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 32
+[09-Aug-2017 12:55:00 UTC] PHP Fatal error:  Call to undefined method App\Controller\TrainerController::distance() in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[09-Aug-2017 13:11:06 UTC] PHP Fatal error:  Call to undefined method App\Controller\TrainerController::distance() in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:46:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[10-Aug-2017 04:47:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 37
+[10-Aug-2017 04:47:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:49:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:49:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:50:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 04:50:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 38
+[10-Aug-2017 06:04:23 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 47
+[10-Aug-2017 06:56:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 36
+[10-Aug-2017 07:30:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 97
+[10-Aug-2017 07:30:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 97
+[11-Aug-2017 11:02:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:02:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:03:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:04:19 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:04:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 102
+[11-Aug-2017 11:19:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/singhgurpreet/public_html/trainer/src/Template/Users/traineredit.ctp on line 101
+[16-Aug-2017 07:50:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 106
+[16-Aug-2017 07:56:46 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 6
+[16-Aug-2017 11:24:38 UTC] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 717
+[16-Aug-2017 11:41:34 UTC] PHP Parse error:  syntax error, unexpected 'request' (T_STRING) in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 726
+[16-Aug-2017 11:42:45 UTC] PHP Fatal error:  Call to a member function subject() on array in /home/singhgurpreet/public_html/trainer/src/Controller/UsersController.php on line 739
+[17-Aug-2017 06:22:52 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Email' not found in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/ContactsController.php on line 106
+[17-Aug-2017 09:40:17 UTC] PHP Parse error:  syntax error, unexpected '$is_exist' (T_VARIABLE) in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/StaticpagesController.php on line 91
+[17-Aug-2017 10:26:15 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:26:33 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:26:53 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/PagesController.php on line 150
+[17-Aug-2017 10:31:20 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/trainer/src/Controller/StaticpagesController.php on line 60
+[17-Aug-2017 11:40:14 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/TrainerController.php on line 102
+[18-Aug-2017 07:44:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/trainer/src/Template/Users/home.ctp on line 211
+[18-Aug-2017 09:59:33 UTC] PHP Parse error:  syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/singhgurpreet/public_html/trainer/src/Controller/Admin/ReviewsController.php on line 44
+[18-Aug-2017 12:59:56 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Homesections/index.ctp on line 3
+[18-Aug-2017 12:59:58 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Homesections/index.ctp on line 3
+[21-Aug-2017 05:52:59 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Users/index.ctp on line 67
+[21-Aug-2017 05:53:01 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/singhgurpreet/public_html/trainer/src/Template/Admin/Users/index.ctp on line 67
+[21-Aug-2017 09:37:41 UTC] PHP Fatal error:  Cannot use object of type Cake\I18n\FrozenTime as array in /home/singhgurpreet/public_html/trainer/src/Template/Layout/default.ctp on line 136
+[30-Aug-2017 07:29:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 292
+[30-Aug-2017 07:29:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/singhgurpreet/public_html/trainer/src/Template/Users/edit.ctp on line 292
+[30-Aug-2017 09:28:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/singhgurpreet/public_html/trainer/src/Template/Trainer/view.ctp on line 160
+[22-Mar-2018 10:05:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 110
+[22-Mar-2018 10:05:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 110
+[26-Mar-2018 09:47:59 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 252
+[26-Mar-2018 09:54:13 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 256
+[26-Mar-2018 09:54:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 256
+[26-Mar-2018 09:54:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 256
+[26-Mar-2018 09:54:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/singhgurpreet/public_html/fff/src/Template/Users/edit.ctp on line 13
+[26-Mar-2018 09:55:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/fff/src/Template/Users/edit.ctp on line 13
+[26-Mar-2018 09:55:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/fff/src/Template/Users/edit.ctp on line 13
+[26-Mar-2018 09:55:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/fff/src/Template/Users/edit.ctp on line 13
+[26-Mar-2018 09:56:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/singhgurpreet/public_html/fff/src/Template/Users/edit.ctp on line 14
+[26-Mar-2018 09:56:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/singhgurpreet/public_html/fff/src/Template/Users/edit.ctp on line 14
+[26-Mar-2018 09:56:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/singhgurpreet/public_html/fff/src/Template/Users/edit.ctp on line 14
+[26-Mar-2018 10:08:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 306
+[26-Mar-2018 10:08:31 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 306
+[26-Mar-2018 10:09:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 306
+[26-Mar-2018 10:10:10 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 320
+[26-Mar-2018 10:10:11 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 320
+[27-Mar-2018 04:29:32 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 129
+[27-Mar-2018 04:29:40 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 129
+[27-Mar-2018 04:30:49 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 129
+[27-Mar-2018 04:30:49 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 129
+[27-Mar-2018 06:57:21 UTC] PHP Fatal error:  Call to a member function all() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 129
+[27-Mar-2018 06:57:23 UTC] PHP Fatal error:  Call to a member function all() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 129
+[27-Mar-2018 11:16:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/fff/src/Template/Users/plans.ctp on line 25
+[27-Mar-2018 11:16:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/fff/src/Template/Users/plans.ctp on line 25
+[27-Mar-2018 11:16:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/singhgurpreet/public_html/fff/src/Template/Users/plans.ctp on line 25
+[27-Mar-2018 11:42:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/singhgurpreet/public_html/fff/src/Template/Users/plans.ctp on line 25
+[27-Mar-2018 11:42:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/singhgurpreet/public_html/fff/src/Template/Users/plans.ctp on line 25
+[27-Mar-2018 11:42:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/singhgurpreet/public_html/fff/src/Template/Users/plans.ctp on line 25
+[28-Mar-2018 06:03:51 UTC] PHP Fatal error:  Call to a member function get() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 413
+[28-Mar-2018 06:58:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 06:58:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 06:59:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 06:59:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 07:00:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 07:00:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 07:00:04 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 07:00:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 455
+[28-Mar-2018 07:02:04 UTC] PHP Fatal error:  Call to a member function newEntity() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 462
+[28-Mar-2018 07:27:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 459
+[28-Mar-2018 11:08:51 UTC] PHP Fatal error:  Class 'App\Controller\DOMDocument' not found in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 658
+[28-Mar-2018 11:17:11 UTC] PHP Fatal error:  Call to a member function body() on string in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 658
+[28-Mar-2018 11:22:30 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 672
+[28-Mar-2018 11:23:07 UTC] PHP Fatal error:  Call to a member function body() on string in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 658
+[28-Mar-2018 11:31:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 661
+[29-Mar-2018 06:48:49 UTC] PHP Parse error:  syntax error, unexpected '$url_parts' (T_VARIABLE), expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 766
+[29-Mar-2018 06:49:22 UTC] PHP Parse error:  syntax error, unexpected '$url_parts' (T_VARIABLE), expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 766
+[29-Mar-2018 09:07:15 UTC] PHP Fatal error:  Out of memory (allocated 12845056) (tried to allocate 12288 bytes) in /home/singhgurpreet/public_html/fff/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 94
+[29-Mar-2018 09:16:07 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/ProductkeyController.php on line 39
+[29-Mar-2018 09:16:08 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/ProductkeyController.php on line 39
+[29-Mar-2018 09:29:31 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR), expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 758
+[29-Mar-2018 09:39:42 UTC] PHP Parse error:  syntax error, unexpected ''IdType'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 764
+[29-Mar-2018 09:39:44 UTC] PHP Parse error:  syntax error, unexpected ''IdType'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 764
+[29-Mar-2018 09:41:41 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:41:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:41:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:41:50 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:42:12 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:42:18 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:42:25 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:49:39 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 755
+[29-Mar-2018 09:59:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 767
+[02-Apr-2018 06:11:04 UTC] PHP Parse error:  syntax error, unexpected ''ed' (T_ENCAPSED_AND_WHITESPACE) in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 477
+[02-Apr-2018 08:33:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 751
+[02-Apr-2018 08:33:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 751
+[02-Apr-2018 08:34:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 751
+[02-Apr-2018 08:34:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 751
+[02-Apr-2018 08:37:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 506
+[02-Apr-2018 08:37:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 506
+[02-Apr-2018 09:07:32 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 528
+[02-Apr-2018 09:07:34 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 528
+[02-Apr-2018 10:46:26 UTC] PHP Parse error:  syntax error, unexpected 'fuction' (T_STRING), expecting variable (T_VARIABLE) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 532
+[02-Apr-2018 10:46:28 UTC] PHP Parse error:  syntax error, unexpected 'fuction' (T_STRING), expecting variable (T_VARIABLE) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 532
+[02-Apr-2018 10:59:29 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Xml' not found in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 617
+[02-Apr-2018 10:59:35 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Xml' not found in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 617
+[02-Apr-2018 11:00:24 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Xml' not found in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 617
+[02-Apr-2018 11:01:06 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Xml' not found in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 617
+[02-Apr-2018 11:01:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/orders.ctp on line 43
+[02-Apr-2018 11:40:12 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 623
+[02-Apr-2018 11:40:14 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 623
+[02-Apr-2018 13:10:24 UTC] PHP Fatal error:  Call to a member function isNew() on null in /home/singhgurpreet/public_html/fff/vendor/cakephp/cakephp/src/ORM/Marshaller.php on line 532
+[03-Apr-2018 05:06:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 338
+[03-Apr-2018 05:06:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 338
+[03-Apr-2018 05:07:09 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 338
+[03-Apr-2018 05:07:43 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 338
+[03-Apr-2018 12:50:05 UTC] PHP Fatal error:  Class 'App\Controller\Admin\Xml' not found in /home/singhgurpreet/public_html/fff/src/Controller/Admin/DashboardController.php on line 154
+[06-Apr-2018 07:32:29 UTC] PHP Fatal error:  require_once() [<a href='https://secure.php.net/function.require'>function.require</a>]: Failed opening required 'stripe/stripe-php/init.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 19
+[06-Apr-2018 11:25:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subscribers.ctp on line 60
+[06-Apr-2018 11:25:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subscribers.ctp on line 60
+[06-Apr-2018 11:26:23 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subscribers.ctp on line 58
+[06-Apr-2018 11:26:26 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subscribers.ctp on line 58
+[06-Apr-2018 12:40:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 673
+[06-Apr-2018 12:40:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 673
+[06-Apr-2018 12:59:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subscribers.ctp on line 3
+[06-Apr-2018 12:59:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subscribers.ctp on line 3
+[09-Apr-2018 06:14:57 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 813
+[09-Apr-2018 06:14:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 813
+[09-Apr-2018 06:17:04 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 807
+[09-Apr-2018 06:17:05 UTC] PHP Fatal error:  Cannot use object of type Cake\ORM\ResultSet as array in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 807
+[09-Apr-2018 06:44:13 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 924
+[09-Apr-2018 06:44:30 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 904
+[09-Apr-2018 06:45:39 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 904
+[09-Apr-2018 07:07:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 877
+[09-Apr-2018 07:07:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 877
+[09-Apr-2018 07:09:00 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 873
+[09-Apr-2018 07:10:00 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 836
+[09-Apr-2018 07:10:02 UTC] PHP Fatal error:  Call to a member function find() on boolean in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 836
+[09-Apr-2018 10:34:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 476
+[09-Apr-2018 12:39:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 476
+[09-Apr-2018 12:45:53 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/singhgurpreet/public_html/fff/src/Controller/UsersController.php on line 476
+[10-Apr-2018 06:50:21 UTC] PHP Fatal error:  Call to undefined function add_slashes() in /home/singhgurpreet/public_html/fff/src/Template/Users/home.ctp on line 87
+[10-Apr-2018 06:50:24 UTC] PHP Fatal error:  Call to undefined function add_slashes() in /home/singhgurpreet/public_html/fff/src/Template/Users/home.ctp on line 87
+[10-Apr-2018 09:24:12 UTC] PHP Fatal error:  Call to a member function read() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 118
+[10-Apr-2018 09:24:13 UTC] PHP Fatal error:  Call to a member function read() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 118
+[10-Apr-2018 09:24:39 UTC] PHP Fatal error:  Call to a member function read() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 118
+[10-Apr-2018 09:24:41 UTC] PHP Fatal error:  Call to a member function read() on null in /home/singhgurpreet/public_html/fff/src/Controller/AppController.php on line 118
+[11-Apr-2018 10:47:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subrelorders.ctp on line 41
+[11-Apr-2018 10:47:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subrelorders.ctp on line 41
+[12-Apr-2018 06:03:17 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/singhgurpreet/public_html/fff/src/Template/Cart/index.ctp on line 52
+[12-Apr-2018 06:03:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/singhgurpreet/public_html/fff/src/Template/Cart/index.ctp on line 52
+[13-Apr-2018 09:14:37 UTC] PHP Parse error:  syntax error, unexpected ''Action'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 788
+[13-Apr-2018 09:15:05 UTC] PHP Parse error:  syntax error, unexpected ''Action'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/singhgurpreet/public_html/fff/src/Controller/Admin/UsersController.php on line 921
+[17-Apr-2018 09:33:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subrelorders.ctp on line 49
+[17-Apr-2018 09:33:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/singhgurpreet/public_html/fff/src/Template/Admin/Users/subrelorders.ctp on line 49

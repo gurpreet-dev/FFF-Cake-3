@@ -1,0 +1,316 @@
+@media (max-width:1200px) {
+     .st-banner{
+         .parallax-window {
+             .carousel-content{
+                 h3 {
+                     font-size: 30px;
+                }
+                 h2 {
+                     font-size: 40px;
+                }
+            }
+        }
+    }
+}
+ @media (max-width:1100px) {
+     .st-gift{
+         .parallax-window{
+             .carousel-content{
+                 h2 {
+                     font-size: 40px;
+                }
+                 a{
+                     font-size: 20px;
+                }
+            }
+             .service{
+                 ul{
+                     li{
+                         div{
+                             font-size: 14px;
+                             margin: 0 5px 0 0px;
+                             width: 145px;
+                             height: 145px;
+                             p{
+                                 padding: 0 20px;
+                                 font-size: 23px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+ @media (max-width:900px) {
+     .st-gift{
+         .parallax-window{
+             min-height: 500px;
+             .service{
+                 ul{
+                     li{
+                         div{
+                             font-size: 14px;
+                             margin: 0 5px 5px 0px;
+                             width: 105px;
+                             height: 105px;
+                             p{
+                                 padding: 0 10px;
+                                 font-size: 15px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+     .st-books{
+         .book-outer{
+             .book-pic {
+                 height: 147px;
+                 img{
+                     width: auto;
+                }
+            }
+        }
+    }
+     .st-editprofile{
+         .nav {
+             padding: 50px 0px;
+        }
+         .tab-content {
+             padding: 50px 20px;
+        }
+    }
+     .st-header{
+         nav{
+             .collapse{
+                 ul{
+                     li{
+                         a{
+                             padding-left:0px !important;
+                        }
+                    }
+                     .log{
+                         a{
+                             padding-left: 20px !important;
+                             margin: 0px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+ @media (max-width:767px) {
+	 body{
+		 .modal{
+			 overflow-y:auto;
+		 }
+	 }
+     .st-banner{
+         .parallax-window {
+             min-height: 300px;
+             .carousel-content{
+                 h3 {
+                     font-size: 20px;
+                }
+                 h2 {
+                     font-size: 29px;
+                }
+            }
+             .family{
+                 position: relative;
+                 bottom: 0;
+                 margin-bottom: -78px;
+            }
+        }
+    }
+     .st-gift{
+         .parallax-window{
+             min-height: 600px;
+             .carousel-content{
+                 h3 {
+                     font-size: 30px !important;
+                }
+                 h2 {
+                     font-size: 30px !important;
+                }
+                 a{
+                     font-size: 24px !important;
+                     margin-bottom: 15px !important;
+                }
+            }
+             .service{
+                 ul{
+                     li{
+                         div{
+                             width: 140px !important;
+                             height: 140px !important;
+                             p{
+                                 font-size: 21px !important;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+     .st-read{
+         .read_content{
+             .theme-heading{
+                font-size: 38px;
+            }
+        }
+    }
+     .st-form{
+         .read_content{
+             form{
+                 .form-group{
+                     .form-control{
+                         border: 0px;
+                         box-shadow: 2px 2px 6px rgba(202, 202, 202, 0.8);
+                         padding: 15px 30px;
+                    }
+                }
+                 button{
+                     width: 100%;
+                     float: none !important;
+                }
+            }
+        }
+         .read_pic {
+             height: 484px;
+        }
+    }
+	.st-footer{
+		.inner{
+			.pic{
+				margin-bottom:15px;
+			}
+		}
+	}
+}
+ @media (max-width:575px) {
+     .st-banner{
+         .parallax-window {
+             min-height: 670px;
+             .carousel-content{
+                 h3 {
+                     font-size: 30px;
+                }
+                 h2 {
+                     font-size: 40px;
+                }
+            }
+        }
+         .family{
+             margin-bottom: -95px;
+        }
+    }
+     .st-books{
+         .book-outer{
+             .book-pic {
+                 height: 531px;
+            }
+        }
+    }
+     .st-slides{
+         padding: 70px 0px 106px;
+         .parallax-window{
+             .carousel{
+                 .carousel-inner{
+                     .carousel-item{
+                         .read_content{
+                             h1{
+                                font-size: 30px;
+                                margin-top: 15px;
+                            }
+                             p{
+                                font-size:15px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+	.st-about h1 {
+		font-size: 31px;
+    }
+}
+ @media (max-width:480px) {
+     .st-banner{
+         .parallax-window {
+             min-height: 600px;
+             .carousel-content{
+                 h3 {
+                     font-size: 20px;
+                }
+                 h2 {
+                     font-size: 30px;
+                }
+            }
+        }
+         .family{
+             margin-bottom: -100px;
+        }
+    }
+     .st-books{
+         .book-outer{
+             .book-pic {
+                 height: 325px;
+            }
+        }
+    }
+}
+ @media (max-width:420px) {
+     .st-banner{
+         .parallax-window {
+             min-height: 468px;
+             .carousel-content{
+                 h3 {
+                     font-size: 20px;
+                }
+                 h2 {
+                     font-size: 30px;
+                }
+            }
+        }
+         .family{
+             margin-bottom: -78px;
+        }
+    }
+     .st-books{
+         .book-outer{
+             .book-pic {
+                 height: 325px;
+            }
+        }
+    }
+}
+ @media (max-width:360px) {
+     .st-banner{
+         .parallax-window {
+             min-height: 450px;
+        }
+    }
+     .st-read {
+         padding-top: 0px;
+    }
+     .st-slides{
+         .parallax-window{
+             .carousel{
+                 .carousel-inner{
+                     .carousel-item{
+                         .read_content{
+                             h1{
+                                margin-top: 0px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
